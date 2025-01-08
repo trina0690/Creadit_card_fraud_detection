@@ -48,15 +48,6 @@ These metrics demonstrate that the model excels at both identifying fraudulent t
 
 Kaggle for the dataset.
 
-Encryptix for giving me this opportunity.
-
-
-### How to Load the Model
-
-```python
- **Clone the Repository**:
-   ```bash
-git clone https://github.com/trina0690/Encryptix-task-2-Creadit_card_fraud_detection.git
 
 
 
